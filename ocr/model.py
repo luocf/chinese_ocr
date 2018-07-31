@@ -65,7 +65,7 @@ def get_model(height,nclass):
 characters = keys.alphabet[:]
 
 
-modelPath = os.path.join(os.getcwd(),"../train/pretrain-models/keras.hdf5")
+modelPath = os.path.join(os.getcwd(),"train/pretrain-models/keras.hdf5")
 height = 32
 nclass = len(characters)
 if os.path.exists(modelPath):
