@@ -1,0 +1,8 @@
+SOURCE:
+  TEMPLATE_PATH: './myData'
+  FONT_PATH: './font'
+  TEXTS_PATH: './myData/val_txt'
+  TEMPLATE_FILE: './myData/template.txt'
+SAVE:
+  TEMPLATE_FILE: './myData/template.txt'
+  IMAGE_PATH: '../../train/data/dataline/val/'

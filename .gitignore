@@ -48,9 +48,6 @@ buck-out/
 # import homepage js
 /js/home/imports/*
 
-# tools
-/tools/*
-
 android/keystores/debug.keystore
 
 .externalNativeBuild
