@@ -6,7 +6,6 @@
 #
 Thumbs.db
 modelAngle.h5
-keras.hdf5
 VGGnet_fast_rcnn_iter_470000.ckpt.data-00000-of-00001
 VGGnet_fast_rcnn_iter_470000.ckpt.index
 VGGnet_fast_rcnn_iter_470000.ckpt.meta
@@ -30,7 +29,8 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
-
+__pycache__
+gitflow
 # Android/IJ
 #
 *.iml
